@@ -119,6 +119,22 @@
             }
         },
         {
+            "Key": "80af1ce6-3daf-44d9-9c1c-49fd05c6bc19",
+            "Value": {
+                "id": "cf441f65-a4ce-486d-a40f-f16a27b332b6",
+                "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a435d286-cc75-433f-a7be-b08fef76e0ad",
+            "Value": {
+                "id": "f2aad1ec-8f75-426b-8681-7b8fd4363870",
+                "resourcePath": "sprites\\s_Wall\\s_Wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "be21fca8-d9df-40c2-a500-7fbec9d87270",
             "Value": {
                 "id": "098639c5-9831-45c6-93d0-cbdfb399c475",
@@ -132,6 +148,14 @@
                 "id": "8828a5fb-c441-425c-9d85-6424e54b0e2f",
                 "resourcePath": "views\\c3a4e0ee-37d9-4a6a-8399-16e772e7ad36.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7a192bd-3b65-4be3-b013-196f621b3fa6",
+            "Value": {
+                "id": "e2852203-0579-4df4-af90-a56dad126e12",
+                "resourcePath": "objects\\oFighter\\oFighter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +188,14 @@
                 "id": "1aac2b90-503e-482f-9a31-957593e7707f",
                 "resourcePath": "views\\d977a0c1-c305-4443-888b-9dd60a80b7ea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e74a0181-20a1-44f2-8b3c-2fcad7d74517",
+            "Value": {
+                "id": "0660ab9d-21df-40b0-815f-fea06cd70a96",
+                "resourcePath": "sprites\\s_fighter_move\\s_fighter_move.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
